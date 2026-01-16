@@ -15,7 +15,7 @@ Requirements:
 3. The printer calibration process must be completed.
 4. Tool changes must work without problems beforehand.
 
-My test setup:
+# My test setup:
 
 Printer: U1 from Kickstarter campaign (without top cover)
 Firmware: 1.0.0 + v1.0.0-paxx12-10 (extended)
