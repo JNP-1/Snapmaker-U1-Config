@@ -4,7 +4,7 @@ No problems have arisen. Tool changes have always worked reliably.
 However, this does not mean that problems cannot occur on other printers.
 I therefore emphasize that use is at your own risk and I accept no responsibility for any damage!
 
-This configuration optimizes the TMC settings for the integrated stepper motors and uses higher speeds and accelerations for tool changes.
+This configuration optimizes the TMC settings for the integrated XY stepper motors and uses higher speeds and accelerations for tool changes.
 
 Requirements:
 1. The tool positions must be exactly correct.
