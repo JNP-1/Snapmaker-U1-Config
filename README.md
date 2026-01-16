@@ -17,6 +17,6 @@ Requirements:
 
 # My test setup:
 
-Printer: U1 from Kickstarter campaign (without top cover)
-Firmware: 1.0.0 + v1.0.0-paxx12-10 (extended)
-Slicer: Snapmaker OrcaSlicer 2.1.5
+- Printer: U1 from Kickstarter campaign (without top cover)
+- Firmware: 1.0.0 + v1.0.0-paxx12-10 (extended)
+- Slicer: Snapmaker OrcaSlicer 2.1.5
